@@ -8,11 +8,11 @@ namespace Homework
 {
     internal class Store
     {
-        private string name;
-        private string address;
-        private string profile;
-        private string telephone;
-        private string email;
+        private string name; //название магазина
+        private string address; //адрес
+        private string profile; //профиль
+        private string telephone; //телефон
+        private string email; //эл. адрес
         public Store()
         {
             name = null;
